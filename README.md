@@ -1,4 +1,4 @@
-# @uniswap/token-lists (beta)
+0xDaD68778f0a0732E232f27dc296e3602E12d108A
 
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/Uniswap/token-lists/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@uniswap/token-lists)](https://unpkg.com/@uniswap/token-lists@latest/)
